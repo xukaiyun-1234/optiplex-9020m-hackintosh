@@ -9,6 +9,10 @@
 * 声卡: Realtek ALC255/ALC3234
 * 内存: 8G DDR3 1600MHZ
 
+#### **系统截图**：
+
+![截图](https://github.com/xukaiyun-1234/optiplex-9020m-hackintosh/blob/main/macos.png)
+
 #### **适配情况**：
 
 * 仿冒机型: iMac19,1
@@ -26,6 +30,10 @@ OCLP-X项目链接[https://github.com/JeoJay127/OCLP-X/releases](https://github.
 
 方法：
 ![第一步](https://github.com/xukaiyun-1234/optiplex-9020m-hackintosh/blob/main/oclp-1.png)
+
+![第二步](https://github.com/xukaiyun-1234/optiplex-9020m-hackintosh/blob/main/oclp-2.png)
+
+
 
 
 
