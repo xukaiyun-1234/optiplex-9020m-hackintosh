@@ -24,6 +24,8 @@
 
 OCLP-X项目链接[https://github.com/JeoJay127/OCLP-X/releases](https://github.com/JeoJay127/OCLP-X/releases)
 
+方法：
+![第一步](https://github.com/xukaiyun-1234/optiplex-9020m-hackintosh/blob/main/oclp-1.png)
 
 
 
